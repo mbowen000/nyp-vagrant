@@ -1,0 +1,6 @@
+# Install location
+prefix=/home/vagrant/alfresco/alfresco-dev
+
+alfresco_admin_password=admin
+
+baseunixservice_install_as_service=0
